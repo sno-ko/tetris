@@ -14,3 +14,6 @@ S：高速落下 <br>
 W：ハードドロップ <br>
 F，G：左回転，右回転 <br>
 T：ホールド
+
+AIによるプレイ動画
+https://user-images.githubusercontent.com/65155191/172161940-6fd9031b-cb1b-4ad5-ba00-4a9f934014c0.mp4
