@@ -1,0 +1,8 @@
+AI_type:A
+NNW_size:4,1,0,1
+feature_value:
+
+genome:
+I-H:2.91+2.26+1.24+1.78+2.53
+H-H:
+H-O:

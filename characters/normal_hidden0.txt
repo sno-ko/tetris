@@ -1,0 +1,8 @@
+AI_type:A-hold
+NNW_size:9,1,0,1
+feature_value:
+top_height,sum_height,delete_line,num_hole,dipth_well,bumpiness,dipth_hole,row_trans,clm_trans
+genome:
+I-H:0.0+-1.37+-2.59+2.91+0.18+2.47+-1.66+-0.28+0.15+-2.67
+H-H:
+H-O:
