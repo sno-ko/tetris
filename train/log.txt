@@ -1,0 +1,6 @@
+generation: 0
+homogeneity average: 7.72, variance: 2.926
+generation: 8
+homogeneity average: 11.799, variance: 21.04
+generation: 8
+homogeneity average: 11.799, variance: 21.04

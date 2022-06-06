@@ -1,0 +1,10 @@
+AI_type
+A
+feature_value
+top_height,sum_height,delete_line,num_hole,dipth_well,bumpiness,dipth_hole,row_trans,clm_trans
+nnw_info
+9,1,0,1
+genome
+I-H:-2.83+0.17+2.75+-2.2+0.36+0.16+-0.01+-2.45+-2.22
+H-H:
+H-O:
